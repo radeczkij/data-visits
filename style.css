@@ -44,7 +44,7 @@ body {
   flex-direction: row;
   justify-content: space-between;
 }
-/*  ========================  */
+
 .hour-scale {
   display: flex;
   justify-content: space-between;
@@ -66,10 +66,4 @@ body {
   height: 10px;
   background-color: black;
   margin: 0 auto;
-}
-
-.time-container {
-  text-align: center;
-  font-size: 18px;
-  margin-bottom: 10px;
 }
